@@ -1,5 +1,5 @@
-# Spring Boot RESTFul microservices
-You can check the full article at [RESTful Microservices with Spring Boot and Kubernetes](https://techdozo.dev/restful-microservices-with-spring-boot-and-kubernetes/)
+# Spring Boot Single Service
+You can check the full article at [RESTful Microservices with Spring Boot and Kubernetes] www.satdevelop.com
 
 ##Overview
 This repo consists of following artifacts
